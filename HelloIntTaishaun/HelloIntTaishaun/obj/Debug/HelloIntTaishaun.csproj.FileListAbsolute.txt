@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\bin\Debug\HelloIntTaishaun.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\bin\Debug\HelloIntTaishaun.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\bin\Debug\HelloIntTaishaun.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\obj\Debug\HelloIntTaishaun.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\obj\Debug\HelloIntTaishaun.frmHelloInt.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\obj\Debug\HelloIntTaishaun.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\obj\Debug\HelloIntTaishaun.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\obj\Debug\HelloIntTaishaun.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\obj\Debug\HelloIntTaishaun.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Introduction\HelloIntTaishaun\HelloIntTaishaun\obj\Debug\HelloIntTaishaun.pdb
