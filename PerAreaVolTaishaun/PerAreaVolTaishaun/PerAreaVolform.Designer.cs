@@ -50,10 +50,10 @@
             // lblAnswer1
             // 
             this.lblAnswer1.AutoSize = true;
-            this.lblAnswer1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAnswer1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAnswer1.Location = new System.Drawing.Point(526, 70);
             this.lblAnswer1.Name = "lblAnswer1";
-            this.lblAnswer1.Size = new System.Drawing.Size(59, 31);
+            this.lblAnswer1.Size = new System.Drawing.Size(48, 26);
             this.lblAnswer1.TabIndex = 1;
             this.lblAnswer1.Text = "???";
             this.lblAnswer1.Click += new System.EventHandler(this.Label1_Click);
@@ -72,20 +72,20 @@
             // lblAnswer3
             // 
             this.lblAnswer3.AutoSize = true;
-            this.lblAnswer3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAnswer3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAnswer3.Location = new System.Drawing.Point(526, 355);
             this.lblAnswer3.Name = "lblAnswer3";
-            this.lblAnswer3.Size = new System.Drawing.Size(59, 31);
+            this.lblAnswer3.Size = new System.Drawing.Size(48, 26);
             this.lblAnswer3.TabIndex = 3;
             this.lblAnswer3.Text = "???";
             // 
             // lblAnswer2
             // 
             this.lblAnswer2.AutoSize = true;
-            this.lblAnswer2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAnswer2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAnswer2.Location = new System.Drawing.Point(526, 217);
             this.lblAnswer2.Name = "lblAnswer2";
-            this.lblAnswer2.Size = new System.Drawing.Size(59, 31);
+            this.lblAnswer2.Size = new System.Drawing.Size(48, 26);
             this.lblAnswer2.TabIndex = 4;
             this.lblAnswer2.Text = "???";
             // 

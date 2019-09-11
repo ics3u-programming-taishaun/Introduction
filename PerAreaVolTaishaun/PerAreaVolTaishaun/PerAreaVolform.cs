@@ -34,19 +34,19 @@ namespace PerAreaVolTaishaun
         private void BtmQPerimeter_Click(object sender, EventArgs e)
         {
             //Display answer to the perimeter question, when the button is clicked.
-            lblAnswer1.Text = Convert.ToString(5 + Math.Pow(2, 3));
+            lblAnswer1.Text = Convert.ToString(5 + Math.Pow(2, 3)) + " cm";
         }
 
         private void BtmQArea_Click(object sender, EventArgs e)
         {
             //Display answer to the area question, when the button is clicked.
-            lblAnswer2.Text = Convert.ToString(Math.PI * Math.Pow(7, 2));
+            lblAnswer2.Text = Convert.ToString(Math.PI * Math.Pow(7, 2)) + " cm² ";
         }
 
         private void BtmQVolume_Click(object sender, EventArgs e)
         {
             // Display answer to the volume question, when the button is clicked. 
-            lblAnswer3.Text = Convert.ToString((double)4 /(double)3 * Math.PI * Math.Pow(4, 3));
+            lblAnswer3.Text = Convert.ToString((double)4 /(double)3 * Math.PI * Math.Pow(4, 3)) + " cm³ ";
         }
     }
 }
